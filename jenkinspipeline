@@ -17,6 +17,7 @@ pipeline {
                 sh 'echo "Deploying..."'
 		sh 'echo "Please check"'
 		sh 'echo "Again check"'
+		#hello 
             }
         }
     }
